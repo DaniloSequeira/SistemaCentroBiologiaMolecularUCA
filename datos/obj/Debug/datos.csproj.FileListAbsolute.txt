@@ -1,0 +1,28 @@
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\datos.dll
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\datos.pdb
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\entidades.dll
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\entidades.pdb
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\datos\obj\Debug\datos.csprojResolveAssemblyReference.cache
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\datos\obj\Debug\datos.dll
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\datos\obj\Debug\datos.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\datos.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\datos.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\entidades.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\entidades.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\obj\Debug\datos.csprojResolveAssemblyReference.cache
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\obj\Debug\datos.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\obj\Debug\datos.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\datos.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\datos.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\entidades.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\entidades.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\obj\Debug\datos.csprojResolveAssemblyReference.cache
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\obj\Debug\datos.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\datos\obj\Debug\datos.pdb
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\datos.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\datos.pdb
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\entidades.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\datos\bin\Debug\entidades.pdb
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\datos\obj\Debug\datos.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\datos\obj\Debug\datos.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\datos\obj\Debug\datos.pdb

@@ -1,0 +1,15 @@
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\entidades\bin\Debug\entidades.dll
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\entidades\bin\Debug\entidades.pdb
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\entidades\obj\Debug\entidades.csprojResolveAssemblyReference.cache
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\entidades\obj\Debug\entidades.dll
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\entidades\obj\Debug\entidades.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\entidades\bin\Debug\entidades.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\entidades\bin\Debug\entidades.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\entidades\obj\Debug\entidades.csprojResolveAssemblyReference.cache
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\entidades\obj\Debug\entidades.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\entidades\obj\Debug\entidades.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\entidades\bin\Debug\entidades.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\entidades\bin\Debug\entidades.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\entidades\obj\Debug\entidades.csprojResolveAssemblyReference.cache
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\entidades\obj\Debug\entidades.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\entidades\obj\Debug\entidades.pdb

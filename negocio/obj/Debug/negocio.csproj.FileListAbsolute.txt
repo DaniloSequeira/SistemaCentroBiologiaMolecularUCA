@@ -1,0 +1,36 @@
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\negocio.dll
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\negocio.pdb
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\datos.dll
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\entidades.dll
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\datos.pdb
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\entidades.pdb
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\negocio\obj\Debug\negocio.csprojResolveAssemblyReference.cache
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\negocio\obj\Debug\negocio.dll
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\negocio\obj\Debug\negocio.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\negocio.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\negocio.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\datos.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\entidades.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\datos.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\entidades.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\obj\Debug\negocio.csprojResolveAssemblyReference.cache
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\obj\Debug\negocio.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\obj\Debug\negocio.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\negocio.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\negocio.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\datos.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\entidades.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\datos.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\entidades.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\obj\Debug\negocio.csprojResolveAssemblyReference.cache
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\obj\Debug\negocio.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\negocio\obj\Debug\negocio.pdb
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\negocio.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\negocio.pdb
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\datos.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\entidades.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\datos.pdb
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\negocio\bin\Debug\entidades.pdb
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\negocio\obj\Debug\negocio.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\negocio\obj\Debug\negocio.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\negocio\obj\Debug\negocio.pdb

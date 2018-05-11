@@ -1,0 +1,480 @@
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\ApplicationInsights.config
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\csc.exe
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\vbc.exe
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\VBCSCompiler.exe
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebSistemaCentroBiologiaMolecularUCA.dll.config
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebSistemaCentroBiologiaMolecularUCA.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebSistemaCentroBiologiaMolecularUCA.pdb
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Antlr3.Runtime.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.SqlServer.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.Web.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ApplicationInsights.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Google.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Newtonsoft.Json.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Owin.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Helpers.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Mvc.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Optimization.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Providers.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Razor.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Deployment.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Razor.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebGrease.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.Web.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ApplicationInsights.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Optimization.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Antlr3.Runtime.pdb
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Newtonsoft.Json.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Razor.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Deployment.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Razor.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Helpers.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Mvc.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.SqlServer.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Providers.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Google.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Optimization.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Razor.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Webpages.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Webpages.Deployment.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Webpages.Razor.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Helpers.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Mvc.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\EntityFramework.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\obj\Debug\WebSistemaCentroBiologiaMolecularUCA.csprojResolveAssemblyReference.cache
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\obj\Debug\WebSistemaCentroBiologiaMolecularUCA.dll
+c:\users\alber\documents\visual studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\obj\Debug\WebSistemaCentroBiologiaMolecularUCA.pdb
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\datos.dll
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\entidades.dll
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\datos.pdb
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\entidades.pdb
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\negocio.dll
+C:\Users\alber\Documents\Visual Studio 2015\Projects\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\negocio.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\ApplicationInsights.config
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\csc.exe
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\vbc.exe
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\VBCSCompiler.exe
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebSistemaCentroBiologiaMolecularUCA.dll.config
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebSistemaCentroBiologiaMolecularUCA.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebSistemaCentroBiologiaMolecularUCA.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Antlr3.Runtime.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\datos.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\entidades.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.SqlServer.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.Web.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\negocio.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Newtonsoft.Json.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Owin.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Helpers.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Mvc.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Optimization.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Providers.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Razor.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Deployment.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Razor.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebGrease.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\datos.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\entidades.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\negocio.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.Web.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Optimization.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Antlr3.Runtime.pdb
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Newtonsoft.Json.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Razor.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Deployment.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Razor.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Helpers.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Mvc.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.SqlServer.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Providers.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Optimization.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Razor.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Webpages.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Helpers.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Mvc.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\EntityFramework.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\obj\Debug\WebSistemaCentroBiologiaMolecularUCA.csprojResolveAssemblyReference.cache
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\obj\Debug\WebSistemaCentroBiologiaMolecularUCA.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\obj\Debug\WebSistemaCentroBiologiaMolecularUCA.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\ApplicationInsights.config
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\csc.exe
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\vbc.exe
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\VBCSCompiler.exe
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebSistemaCentroBiologiaMolecularUCA.dll.config
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebSistemaCentroBiologiaMolecularUCA.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebSistemaCentroBiologiaMolecularUCA.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Antlr3.Runtime.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\datos.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\entidades.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.SqlServer.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.Web.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\negocio.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Newtonsoft.Json.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Owin.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Helpers.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Mvc.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Optimization.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Providers.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Razor.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Deployment.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Razor.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebGrease.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\datos.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\entidades.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\negocio.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.Web.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Optimization.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Antlr3.Runtime.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Newtonsoft.Json.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Razor.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Deployment.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Razor.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Helpers.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Mvc.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.SqlServer.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Providers.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Optimization.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Razor.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Webpages.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Helpers.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Mvc.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\EntityFramework.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\obj\Debug\WebSistemaCentroBiologiaMolecularUCA.csprojResolveAssemblyReference.cache
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\obj\Debug\WebSistemaCentroBiologiaMolecularUCA.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\obj\Debug\WebSistemaCentroBiologiaMolecularUCA.pdb
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\alber\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\joel\Documents\GitHub\Proyect\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\ApplicationInsights.config
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\csc.exe
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\vbc.exe
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebSistemaCentroBiologiaMolecularUCA.dll.config
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebSistemaCentroBiologiaMolecularUCA.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebSistemaCentroBiologiaMolecularUCA.pdb
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Antlr3.Runtime.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\datos.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\entidades.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.SqlServer.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.Web.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\negocio.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Newtonsoft.Json.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Owin.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Helpers.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Mvc.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Optimization.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Providers.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Razor.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Razor.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\WebGrease.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\datos.pdb
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\entidades.pdb
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\negocio.pdb
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.Web.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Optimization.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Antlr3.Runtime.pdb
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Newtonsoft.Json.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Razor.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Webpages.Razor.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Helpers.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Mvc.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\EntityFramework.SqlServer.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\System.Web.Providers.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Razor.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\EntityFramework.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\obj\Debug\WebSistemaCentroBiologiaMolecularUCA.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\obj\Debug\WebSistemaCentroBiologiaMolecularUCA.dll
+C:\Users\Danilo\Desktop\master\Proyect-master\SistemaCentroBiologiaMolecularUCA\WebSistemaCentroBiologiaMolecularUCA\obj\Debug\WebSistemaCentroBiologiaMolecularUCA.pdb
